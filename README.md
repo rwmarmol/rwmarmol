@@ -1,5 +1,4 @@
 ## Hi there, I'm Rogelio Marmol
-#### it's dangerous to go alone take this :beer:
 
 **Languages I have used**
 
@@ -33,6 +32,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rwmarmol&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+#### it's dangerous to go alone take this :beer:
 
 <!--
 **rwmarmol/rwmarmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
