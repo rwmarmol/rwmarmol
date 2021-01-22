@@ -21,7 +21,7 @@
 ![docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![aws](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20Aws)
 ![gcp](https://img.shields.io/badge/-Google%20Cloud-000000?style=flat&logo=Google%20cloud)
-![mySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![mySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
 <!--
