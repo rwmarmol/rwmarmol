@@ -24,6 +24,15 @@
 ![mySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/rwmarmol">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rwmarmol&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **rwmarmol/rwmarmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
