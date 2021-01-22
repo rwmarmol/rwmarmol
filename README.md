@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Rogelio Marmol
+## it's dangerous to go alone take this :beer:
 
 **Languages I have used**
 
@@ -24,7 +25,7 @@
 ![mySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
-### ⚙️ &nbsp;GitHub Analytics
+**GitHub Activity**
 
 <p>
 <a href="https://github.com/rwmarmol">
