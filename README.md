@@ -18,6 +18,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=c3002f)
 ![npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
+![jest](https://img.shields.io/badge/-jest-000000?style=flat&logo=jest&logoColor=15c213)
 ![webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack)
 ![docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![aws](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20Aws)
