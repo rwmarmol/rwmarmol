@@ -21,6 +21,7 @@
 ![jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=15c213)
 ![jasmine](https://img.shields.io/badge/-Jasmine-000000?style=flat&logo=jasmine)
 ![webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack)
+![babel](https://img.shields.io/badge/-Babel-000000?style=flat&logo=babel)
 ![docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![aws](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20Aws)
 ![gcp](https://img.shields.io/badge/-Google%20Cloud-000000?style=flat&logo=Google%20cloud)
