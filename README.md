@@ -21,7 +21,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=c3002f)
 ![npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
 ![jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=15c213)
-![jasmine](https://img.shields.io/badge/-Jasmine-000000?style=flat&logo=jasmine)
 ![webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack)
 ![babel](https://img.shields.io/badge/-Babel-000000?style=flat&logo=babel)
 ![NextJs](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js)
