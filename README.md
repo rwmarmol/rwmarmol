@@ -31,14 +31,17 @@
 ![mySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
+<!--
 **GitHub Activity**
-
+-->
+<!--
 <p>
 <a href="https://github.com/rwmarmol">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rwmarmol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rwmarmol&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
+-->
 
 ### It's dangerous to go alone take this :beer:
 
