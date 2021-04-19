@@ -23,7 +23,7 @@
 ![jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=15c213)
 ![webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack)
 ![babel](https://img.shields.io/badge/-Babel-000000?style=flat&logo=babel)
-![NextJs](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js)
+<!--![NextJs](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js)-->
 ![docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=ffffff)
 ![aws](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20Aws)
