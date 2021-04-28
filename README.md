@@ -43,7 +43,7 @@
 
 ### It's dangerous to go alone take this :beer:
 
-<!-- **rwmarmol/rwmarmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **rwmarmol/rwmarmol** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
