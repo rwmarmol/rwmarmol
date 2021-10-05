@@ -18,7 +18,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=e00098)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-<!--!![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)-->
+!![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=c3002f)
 ![npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
 ![jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=15c213)
