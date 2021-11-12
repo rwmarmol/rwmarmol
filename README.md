@@ -1,14 +1,15 @@
 ## Hi there, I'm Rogelio Marmol
 
-**Languages I have used**
+<!-- **Languages I have used**-->
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5) -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![GO](https://img.shields.io/badge/-GoLang-000000?style=flat&logo=go)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat)
 
+<!-- 
 **Some of the technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
@@ -18,12 +19,12 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=e00098)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-<!--![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)-->
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=c3002f)
 ![npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
 ![jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=15c213)
 ![webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack)
-<!--![babel](https://img.shields.io/badge/-Babel-000000?style=flat&logo=babel)-->
+![babel](https://img.shields.io/badge/-Babel-000000?style=flat&logo=babel)
 ![NextJs](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js)
 ![docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![aws](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20Aws)
@@ -42,7 +43,7 @@
 </p>
 
 
-<!-- ### It's dangerous to go alone take this :beer: -->
+### It's dangerous to go alone take this :beer: -->
 
 <!--**rwmarmol/rwmarmol** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
