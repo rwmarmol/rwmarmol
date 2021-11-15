@@ -32,7 +32,7 @@
 ![mySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
-
+-->
 **GitHub Activity**
 <p>
 <a href="https://github.com/rwmarmol">
@@ -43,6 +43,7 @@
 </p>
 
 
+<!--
 ### It's dangerous to go alone take this :beer: -->
 
 <!--**rwmarmol/rwmarmol** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
