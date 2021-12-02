@@ -9,7 +9,7 @@
 ![GO](https://img.shields.io/badge/-GoLang-000000?style=flat&logo=go)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat)
 
-<!-- 
+
 **Some of the technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
@@ -32,7 +32,7 @@
 ![mySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
--->
+
 **GitHub Activity**
 <p>
 <a href="https://github.com/rwmarmol">
