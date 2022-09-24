@@ -19,13 +19,12 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=ffffff)
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=e00098) -->
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-<!-- ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux) -->
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=c3002f)
 ![npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
 ![jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=15c213)
 ![webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack)
-<!-- ![babel](https://img.shields.io/badge/-Babel-000000?style=flat&logo=babel) -->
-<!-- ![NextJs](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js) -->
+![NextJs](https://img.shields.io/badge/-Remix-000000?style=flat&logo=remix.js)
+![NextJs](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js)
 ![docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![aws](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20Aws)
 ![gcp](https://img.shields.io/badge/-GCP-000000?style=flat&logo=Google%20cloud)
