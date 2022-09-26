@@ -22,7 +22,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=c3002f)
 ![npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
 ![jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=15c213)
-![webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack)
+<!-- ![webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack) -->
 ![Remix](https://img.shields.io/badge/-Remix-000000?style=flat&logo=remix)
 ![NextJs](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js)
 ![docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
