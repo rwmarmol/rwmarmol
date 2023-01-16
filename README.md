@@ -5,25 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,python,go&theme=light)](https://skillicons.dev)
 
 **Some of the technologies I have worked with**
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=ffffff)
-<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=e00098) -->
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=c3002f)
-![npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
-![jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=15c213)
-<!-- ![webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack) -->
-![Remix](https://img.shields.io/badge/-Remix-000000?style=flat&logo=remix)
-![NextJs](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js)
-![docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-![aws](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20Aws)
-![gcp](https://img.shields.io/badge/-GCP-000000?style=flat&logo=Google%20cloud)
-![mySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+[![Technologies](https://skillicons.dev/icons?i=git,nodejs,django,react,angular,nextjs,remix,mysql,postgres,docker,kubernetes,aws,gcp&theme=light)](https://skillicons.dev)
 
 
 **GitHub Activity**
