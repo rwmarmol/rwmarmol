@@ -1,4 +1,5 @@
 ## Hi there, I'm Rogelio Marmol
+I am a software engineer with over 7 years of experience working in the tech industry, using languages such as Python TypeScript and GoLang and taking advantage of most in-demand Frameworks, design patterns, performance strategies, and taking care of software quality, performance and reliability.
 
 <!-- **Languages I have used**-->
 
@@ -16,21 +17,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rwmarmol&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
-
-
-<!--
-### It's dangerous to go alone take this :beer: -->
-
-<!--**rwmarmol/rwmarmol** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
