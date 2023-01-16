@@ -5,6 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,python,go&theme=light)](https://skillicons.dev)
 
 **Some of the technologies I have worked with**
+<br/>
 [![Technologies](https://skillicons.dev/icons?i=git,nodejs,django,react,angular,nextjs,remix,mysql,postgres,docker,kubernetes,aws,gcp&theme=light)](https://skillicons.dev)
 
 
