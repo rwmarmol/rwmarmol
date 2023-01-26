@@ -7,7 +7,7 @@ I am a software engineer with over 7 years of experience working in the tech ind
 
 ### Some of the technologies I have worked with
 
-[![Technologies](https://skillicons.dev/icons?i=git,nodejs,django,react,angular,nextjs,remix,mysql,postgres,docker,kubernetes,aws,gcp&theme=light)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=git,nodejs,django,react,angular,nextjs,remix,mysql,postgres,mongodb,docker,kubernetes,aws,gcp&theme=light)](https://skillicons.dev)
 
 **GitHub Activity**
 <p>
