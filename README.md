@@ -4,7 +4,7 @@ I am a software engineer with over 7 years of experience working in the tech ind
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,python,go&theme=light)](https://skillicons.dev)
 
 ### Some of the technologies I have worked with
-<!--Icons-->
+
 [![Technologies](https://skillicons.dev/icons?i=django,nodejs,react,angular,nextjs,remix,mysql,postgres,mongodb,docker,kubernetes,git,aws,gcp&theme=light)](https://skillicons.dev)
 
 **GitHub Activity**
