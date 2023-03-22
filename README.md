@@ -7,7 +7,6 @@ I am a software engineer with over 7 years of experience working in the tech ind
 
 [![Technologies](https://skillicons.dev/icons?i=django,nodejs,react,angular,nextjs,remix,mysql,postgres,mongodb,docker,kubernetes,git,aws,gcp&theme=light)](https://skillicons.dev)
 
-<!-- Github Activity -->
 **GitHub Activity**
 <p>
 <a href="https://github.com/rwmarmol">
