@@ -1,7 +1,7 @@
 ## Hi there, I'm Rogelio Marmol
 I am a software engineer with over 7 years of experience working in the tech industry, using languages such as Python TypeScript and GoLang and taking advantage of most in-demand Frameworks, design patterns, performance strategies, and taking care of software quality, performance and reliability.
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,python,go&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,python,go&theme=light)](https://skillicons.dev)
 
 ### Some of the technologies I have worked with
 
