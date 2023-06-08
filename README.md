@@ -10,7 +10,7 @@ I am a software engineer with over 7 years of experience working in the tech ind
 **GitHub Activity**
 <p>
 <a href="https://github.com/rwmarmol">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rwmarmol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rwmarmol&layout=compact&langs_count=10&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rwmarmol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rwmarmol&layout=compact&langs_count=10&theme=tokyonight"/>
 </a>
 </p>
